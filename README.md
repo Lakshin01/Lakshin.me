@@ -1,5 +1,5 @@
 # Lakshin Kumar
-#### [Github](github.com/lakshin01)
+#### [Github](https://github.com/lakshin01) [Gitlab](https://gitlab.com/lakshin) [Email](mailto:lakshin.kumar.lk@gmail.com)
 * Hosted by Github with Namecheap and typed with markdown
 
 
