@@ -1,5 +1,5 @@
 # Lakshin Kumar
-#### Github[github.com/lakshin01]
+#### [Github](github.com/lakshin01)
 * Hosted by Github with Namecheap and typed with markdown
 
 
